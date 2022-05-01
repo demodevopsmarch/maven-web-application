@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://35.154.84.248:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <name>Facebook Releases Nexus Repository</name>
+	      <url>https://github.com/demodevopsmarch/maven-web-application.git/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.154.84.248:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <name>Facebook Snapshot Nexus Repository </name>
+	      <url>https://github.com/demodevopsmarch/maven-web-application.git/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
